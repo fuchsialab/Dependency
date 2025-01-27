@@ -26,3 +26,5 @@ plugins {
 }
 
 Also update composeBom 
+kotlin = "2.1.0"
+
